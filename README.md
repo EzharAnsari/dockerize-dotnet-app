@@ -1,6 +1,5 @@
 
 ## Dockerize a .NET Core App
-In this article, we look at the example project and see the step by step guide on how we can dockerizing the .NET Core App.
 
 ### Getting started
 These instructions will get you a copy of the project up and running on your local machine.
