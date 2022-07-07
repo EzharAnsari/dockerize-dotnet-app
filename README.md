@@ -56,3 +56,4 @@ $ docker run -d -p 8080:5000 --name webapp moviesapi
 # list of running containers
 $ docker ps
 ```
+You can access the application on the web at this address http://localhost:8080.
